@@ -50,7 +50,7 @@ React + TypeScript · [Live demo →](https://react-dashboard09.netlify.app/) ·
 
 ---
 
-## Based in Lahti, Finland
+## Based in Finland
 
 💬 Ask me about **Full Stack Dev · AI Automation · Azure · React**
 🌐 GitHub → [github.com/HassanAmir454](https://github.com/HassanAmir454)
